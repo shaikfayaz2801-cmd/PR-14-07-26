@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 from Django import models 
 class Student(models.Model):
               emp id = models.IntegerField
          def __str__:
             
+=======
+from django import models
+>>>>>>> 8fe80eca866f2ae6b769d1cb0e78b54e1459fb98
