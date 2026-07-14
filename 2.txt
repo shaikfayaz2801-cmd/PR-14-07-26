@@ -1,0 +1,5 @@
+from Django import models 
+class Student(models.Model):
+              emp id = models.IntegerField
+         def __str__:
+            
